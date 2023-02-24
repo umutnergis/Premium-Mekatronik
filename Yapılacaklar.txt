@@ -1,0 +1,9 @@
+
+1= Bilgisayar Can-bus protokolüyle cihaz ile eşleşecek.
+2= Verileri GUI'deki ekrana yazdıracak.
+3= GUI'nin backgroundunda yeni gelen verileri ekleyebileceğimiz bir kısım olucak.
+4= İlk olarak hiçbir sorunu olmayan datalarla karşılaştırılacak.
+5= Data base ve gelen bilgileri kontrol edicek ardından farklılıkları söyleyecek. Eğer daha
+önce tanımlı bir hata bilgisi çeker ise onu ekrana yazdıracak ve hatanın ne olduğunu söyleyecek.
+
+
